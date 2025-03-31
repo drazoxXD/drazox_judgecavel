@@ -1,4 +1,4 @@
-#DON'T USE THIS! USE SOMETHING ELSE WITH NATIVE AUDIO
+# DON'T USE THIS! USE SOMETHING ELSE WITH NATIVE AUDIO
 # drazox_judgecavel
 Interact sound-ba ragd be a judge.ogg hangot
 
